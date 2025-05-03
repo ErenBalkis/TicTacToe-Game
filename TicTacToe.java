@@ -14,7 +14,7 @@ public class TicTacToe {
     JPanel textPanel = new JPanel();
     JPanel boardPanel = new JPanel();
     
-    JButton exitButton = new JButton();     //Alta buton ekle
+    JButton exitButton = new JButton();     
     JButton returnButton = new JButton();
 
     JButton[][] board = new JButton[3][3];
