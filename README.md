@@ -1,6 +1,6 @@
 # TicTacToe Game ❌⭕
 
-Bu repository, Java ile geliştirilmiş iki farklı TicTacToe (XOX) oyunu içermektedir.
+Bu depo, Java ile geliştirilmiş iki farklı TicTacToe (XOX) oyunu içermektedir.
 
 ## 📁 Projeler
 
